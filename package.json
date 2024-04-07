@@ -1,6 +1,6 @@
 {
   "name": "maintain-to-do-list",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This a to do list with inquirer",
   "main": "index.js",
   "type": "module",
